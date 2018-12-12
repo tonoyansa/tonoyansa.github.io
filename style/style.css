@@ -1,6 +1,6 @@
 body
 {
-    background-color: #D83736;
+    background-color: #238B98;
     color: white; 
 }
 
@@ -10,7 +10,7 @@ h1 {
     font-weight: normal;
     font-family: Arial;
     color: white;
-    background-color: #8D9594;
+    background-color: #4E5957;
     margin-left: 0px;
     margin-bottom: 15px;
     margin-top: 0px;
@@ -29,7 +29,7 @@ h2 {
     font-weight: normal;
     font-family: Arial;
     color: white;
-    background-color: #8D9594;
+    background-color: #4E5957;
     margin-left: 0px;
     margin-bottom: 15px;
     margin-top: 0px;
@@ -76,7 +76,7 @@ a.menu:hover {
     font-weight: bold;
     font-family: Arial;
     color: white;
-    background-color: #8D9594;
+    background-color: #4E5957;
     margin-left: 5px;
     margin-right: 5px;
     margin-top: 5px;
